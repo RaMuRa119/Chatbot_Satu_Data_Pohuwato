@@ -27,6 +27,11 @@
 ├── README.md      # Dokumentasi proyek ini
 
 ```
+##  1. Clone Repo
+
+<pre> ```bash 
+git clone https://github.com/RaMuRa119/Chatbot_Satu_Data_Pohuwato.git cd Chatbot_Satu_Data_Pohuwato 
+``` </pre>
 ---
 
 ## Teknologi yang Digunakan

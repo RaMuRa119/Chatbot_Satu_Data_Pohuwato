@@ -9,6 +9,14 @@
 
 ---
 
+## Fitur Utama
+- **Chatbot berbasis AI** untuk menjawab pertanyaan terkait data Pohuwato.
+- **Integrasi RAG** untuk mengambil informasi dari knowledge base lokal.
+- **Pencarian berbasis konteks** untuk jawaban yang lebih relevan.
+- **Arsitektur Fullstack** dengan **Frontend React** + **Backend Flask API**.
+  
+---
+
 ##  Struktur Proyek
 ```plaintext
 .
@@ -19,14 +27,6 @@
 ├── README.md      # Dokumentasi proyek ini
 
 ```
----
-
-## Fitur Utama
-- **Chatbot berbasis AI** untuk menjawab pertanyaan terkait data Pohuwato.
-- **Integrasi RAG** untuk mengambil informasi dari knowledge base lokal.
-- **Pencarian berbasis konteks** untuk jawaban yang lebih relevan.
-- **Arsitektur Fullstack** dengan **Frontend React** + **Backend Flask API**.
-
 ---
 
 ## Teknologi yang Digunakan

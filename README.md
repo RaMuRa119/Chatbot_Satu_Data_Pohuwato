@@ -18,6 +18,7 @@
 ├── venv/          # Virtual environment Python (tidak di-upload)
 ├── README.md      # Dokumentasi proyek ini
 
+```
 ---
 
 ## Fitur Utama

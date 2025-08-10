@@ -27,12 +27,6 @@
 ├── README.md      # Dokumentasi proyek ini
 
 ```
-##  1. Clone Repo
-
-```yml
-git clone https://github.com/RaMuRa119/Chatbot_Satu_Data_Pohuwato.git cd Chatbot_Satu_Data_Pohuwato 
-```
-
 ---
 
 ## Teknologi yang Digunakan
@@ -40,3 +34,32 @@ git clone https://github.com/RaMuRa119/Chatbot_Satu_Data_Pohuwato.git cd Chatbot
 - **Frontend**: React
 - **ML/AI**: LLM (Gemini), RAG pipeline
 - **Deploy**: Localhost
+
+---
+## Langkah-Langkah
+
+###  1. Clone Repo
+
+```yml
+git clone https://github.com/RaMuRa119/Chatbot_Satu_Data_Pohuwato.git cd Chatbot_Satu_Data_Pohuwato 
+```
+
+###  2. Setup Backend (Flask)
+
+```yml
+cd backend
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+```
+
+###  3. Setup Frontend (React)
+
+```yml
+cd frontend
+npm install
+npm run dev
+```
+
+---

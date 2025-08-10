@@ -18,3 +18,18 @@
 ├── venv/          # Virtual environment Python (tidak di-upload)
 ├── README.md      # Dokumentasi proyek ini
 
+---
+
+## Fitur Utama
+- **Chatbot berbasis AI** untuk menjawab pertanyaan terkait data Pohuwato.
+- **Integrasi RAG** untuk mengambil informasi dari knowledge base lokal.
+- **Pencarian berbasis konteks** untuk jawaban yang lebih relevan.
+- **Arsitektur Fullstack** dengan **Frontend React** + **Backend Flask API**.
+
+---
+
+## Teknologi yang Digunakan
+- **Backend**: Python, Flask, FAISS, Transformers
+- **Frontend**: React
+- **ML/AI**: LLM (Gemini), RAG pipeline
+- **Deploy**: Localhost

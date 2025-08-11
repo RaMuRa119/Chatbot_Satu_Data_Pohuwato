@@ -17,7 +17,7 @@ CORS(app, origins=['*'])
 # CONFIG
 # --------------------------
 # Gunakan env var untuk API key (lebih aman)
-GENAI_API_KEY = os.environ.get("GENAI_API_KEY", "AIzaSyDOO6WCqKq24dtpbDxeIgWjnZe4L-lTjkU")
+GENAI_API_KEY = os.environ.get("GENAI_API_KEY", "YOUR_API_KEY")
 # Max jumlah pesan (user/model) yang disimpan di memory (last N messages)
 MAX_MEMORY_MESSAGES = 30
 
